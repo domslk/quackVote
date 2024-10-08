@@ -1,0 +1,29 @@
+.container {
+    border: 1px solid black;
+    height: 100px;
+    position: relative;
+    margin-top: 100px;
+  }
+  button {
+    position: absolute;
+    left: 50%;
+    top: 10px;
+    transform: translateX(-50%);
+    height: 35px;
+    width: 88px;
+    
+  }
+
+.welcome {
+    border: 0px solid black;
+    height: 50px;
+    position: relative;
+    
+}
+ h1 {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+ }  
